@@ -4,11 +4,13 @@ Current Version - v0.5.34 -beta
 
 # Go over to releases to download the apk File
 
-<img src="https://github.com/Afroz-Shaikh/vault/blob/main/assets/thumbnail.png" alt="accessibility text">
+<img src="https://github.com/Afroz-Shaikh/vault-app/blob/main/assets/thumbnail.png" alt="accessibility text">
 
 # ⚠️ STILL IN DEVELOPMENT
 
-A Offline-First App to save credentials Locally.
+An Offline-First App to save credentials Locally.
+
+<img src="https://github.com/Afroz-Shaikh/vault-app/blob/main/assets/playstore_thumbnail.png" alt="accessibility text">
 
 # Desciption
 
